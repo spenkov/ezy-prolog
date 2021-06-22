@@ -1,0 +1,6 @@
+How to build EZY PROLOG
+1. Create directory EZY_PROLOG
+2. Unzip classes.7z
+3. Unzip ezy_prolog_cgi.7z
+4. Start Visual Prolog 5.2 and open project EZY_PROLOG\ezy_prolog_cgi\ezy_prolog_cgi.vpr
+5. Build the project
