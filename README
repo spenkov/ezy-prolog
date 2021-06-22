@@ -1,1 +1,13 @@
-this is ezy prolog readme file
+EZY Prolog is the simple prolog to learn due to full compatibility with Turbo Prolog and built-in learning center.
+EZY Prolog learning center provides quick access to predicate declaration and samples, including puzzles demonstrating AI programming using EZY Prolog.
+EZY Prolog is prolog interpeter written completely in Visual Prolog (5.2).
+Original source was ported from Tubro Prolop PIE project (Prolog inference engine) into Windows environment.
+This site runs CGI version of EZY Prolog on Apache Web server.
+You need Visual Prolog 5.2 to compile executableProlog is good for educational and research purposes.
+
+EZY Prolog is an interpreter and supports Tubro Prolog syntax.
+As an interpreter EZY Prolog is not typed programming language.
+System includes Visual Prolog compiler to verify code syntax and logic according to Visual Prolog rules and detect logical errors before programm execution.
+Visual Prolog compiler checks type of domains and predicates, flow patters, unused variables (same as Turbo Prolog, Visual Prolog)
+Built-in compiler reduces the time programmers need to make working programm.
+EZY Prologs combines power of domains and predicates types with the flexibility of interpreter.
