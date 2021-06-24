@@ -1,3 +1,6 @@
 1. Unpack cgi-bin.7z content into cgi-bin
 2. Unpack /ezy_prolog.7z content into htdocs/ezy_prolog
+3. In MySQL create databse ezy-prolog and import ezy-prolog-sql.sql.
+4. Install ODBC driver for MySQL - My SQL ODBC 8.0 ANSI driver. 
+4. Create ODBC source (32 bit) 'ezy-prolog-sql' to My SQL database ezy-prolog. Make sure you have Character Set - utf8.
 3. Start EZY PROLOG http://<SERVER-NAME>/ezy_prolog
