@@ -2,7 +2,7 @@ EZY Prolog is a simple prolog to learn due to full compatibility with Turbo Prol
 EZY Prolog learning center provides quick access to predicate declaration and samples, including puzzles demonstrating AI programming using EZY Prolog.
 EZY Prolog is prolog interpeter written completely in Visual Prolog (5.2).
 Original source was ported from Tubro Prolop PIE project (Prolog inference engine) into Windows environment.
-This site runs CGI version of EZY Prolog on Apache Web server.
+This site runs CGI version of EZY Prolog on Apache Web server (under WINDOWS).
 You need Visual Prolog 5.2 to compile executableProlog is good for educational and research purposes.
 
 EZY Prolog is an interpreter and supports Tubro Prolog syntax.
